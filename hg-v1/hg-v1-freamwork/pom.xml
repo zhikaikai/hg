@@ -10,9 +10,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>hg-v1-freamwork</artifactId>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
     <modules>
-        <module>hg-v1-freamwork-core</module>
         <module>hg-v1-freamwork-core</module>
     </modules>
 
